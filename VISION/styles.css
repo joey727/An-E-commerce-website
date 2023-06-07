@@ -952,3 +952,6 @@ form .user-details .input-box{
 }
 }
 
+#myvideo {
+  object-fit: fill;
+}
